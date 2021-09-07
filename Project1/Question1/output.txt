@@ -1,0 +1,11 @@
+Austin
+AINSTU
+Please input a string to be sorted.
+Dylan
+ADLNY
+Please input a string to be sorted.
+Jake
+AEJK
+Please input a string to be sorted.
+
+Null input detected. Program terminated.
